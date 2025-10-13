@@ -1,6 +1,6 @@
 # 📊 Job Vacancies in Canada: Data Analysis Project
 
-This project focuses on analyzing job vacancy trends across Canada using large CSV datasets. Using Python's powerful data manipulation and visualization libraries, the goal is to uncover meaningful insights into employment demand across various sectors and provinces.
+This project focuses on analyzing job vacancy trends across Canada by processing datasets from Statistics Caanda and Government of Ontario. Using Python's data manipulation and visualization libraries, the goal is to uncover meaningful insights into employment demand across provinces.
 
 ---
 
@@ -27,32 +27,13 @@ This project focuses on analyzing job vacancy trends across Canada using large C
 
 ---
 
-## 📦 Dataset
+## 📦 Datasets
 
 - Source: Statistics Canada and Government of Ontario
 - Format: CSV
 - Size: Large-scale (100k+ rows depending on the time period and filters)
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/job-vacancy-canada-analysis.git
-   cd job-vacancy-canada-analysis
-   ```
-
-2. Install required libraries  
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-
-3. Run the analysis script  
-   ```bash
-   python [name of script].py
-   ```
---- 
 
 ## Authors
 Louis Nguyen  
