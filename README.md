@@ -1,4 +1,4 @@
-# 📊 Job Vacancies in Canada: Data Analysis Project
+# CIS2250 Term Project - Winter 2025: Job Vacancies in Canada Data Analysis Project
 
 This project focuses on analyzing job vacancy trends across Canada by processing datasets from Statistics Caanda and Government of Ontario. Using Python's data manipulation and visualization libraries, the goal is to uncover meaningful insights into employment demand across provinces.
 
@@ -36,7 +36,7 @@ This project focuses on analyzing job vacancy trends across Canada by processing
 ---
 
 ## Authors
-Louis Nguyen  
-Ahmet Ozer  
-Arya Oberoi  
-Zain Murad
+- Louis Nguyen  
+- Ahmet Ozer  
+- Arya Oberoi  
+- Zain Murad
